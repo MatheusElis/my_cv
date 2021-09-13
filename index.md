@@ -31,12 +31,12 @@ São José dos Campos - SP
 ## Habilidades e Competencias 
 - Linux (Ubuntu, Arc Linux e CentOS)
 - Linguagens de programação: C/C++, Python, R, Julia, Lua e PostgreSQL
-- Bibliotecas de Computação de Alto Desempenho: OpenMP e MPI
+- API's de Computação de Alto Desempenho: OpenMP e MPI
 - Criação de Scripts em Bash
 - Inglês intermediário
 - Familiaridade com AWS
 - Experiência com WebScraping
-- Modelagem Epidemiologica
+- Modelagem Epidemiológica
 
 ## Formação Acadêmica 
 
@@ -65,7 +65,7 @@ São José dos Campos - SP
   2. Jogos clássicos parte 1: Iniciando no Javascript com Pong (de 23/07/2021 a 27/07/2021) 6hrs
   3. Jogos clássicos parte 2: laços e listas com Javascript (de 27/07/2021 a 28/07/2021) 4hrs 
   4. Arquitetura de computadores: Por trás de como seu programa funciona (de 28/07/2021 a 01/08/2021) 8hrs
-  5. Introdução ao Django 3: Modelo, Rotas e Views
+  5. Introdução ao Django 3: Modelo, Rotas e Views (de 09/09/2021 a 13/09/2021) 8hrs 
 - Front-end
   1. HTTP: Entendendo a web por baixo dos panos (de 12/08/2021 a 16/08/2021) 14hrs 
 - DevOps
